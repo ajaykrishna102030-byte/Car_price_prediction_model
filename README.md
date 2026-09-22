@@ -139,3 +139,7 @@ python car_price_prediction.py
 ## 📄 License
 
 This project is for educational purposes only.
+
+## 📄 Dataset Link
+
+https://www.kaggle.com/datasets/amjadzhour/car-price-prediction
